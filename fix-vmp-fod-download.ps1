@@ -125,3 +125,4 @@ Write-Host "Your hardware is perfect. Your troubleshooting was excellent." -Fore
 Write-Host "This is 100% a Microsoft Windows 11 Build 26100 bug." -ForegroundColor Green
 
 Read-Host "Press Enter to exit"
+
